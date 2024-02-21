@@ -1,0 +1,4 @@
+{
+	"title": "Accept management roles",
+	"description": "Proposal for testing purposes. Will accept management roles for `GenericGovernor` and `DelegateDecayMeasure` upon execution."
+}
